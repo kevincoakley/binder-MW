@@ -1,8 +1,8 @@
 # Metabolomics Workbench Jupyter Notebook Examples
 
-https://www.metabolomicsworkbench.org
-  
+[![metabolomics workbench](https://github.com/kevincoakley/binder-MW/raw/master/mwb_logo.png)](https://www.metabolomicsworkbench.org)
 
+https://www.metabolomicsworkbench.org
 
 Perform Data Normalization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWPerformDataNormalization.ipynb)
   
