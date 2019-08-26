@@ -1,23 +1,27 @@
-# binder-MW
+# Metabolomics Workbench Jupyter Notebook Examples
 
-MWPerformDataNormalization.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWPerformDataNormalization.ipynb)
+https://www.metabolomicsworkbench.org
   
-MWPerformPrincipalComponentAnalysis.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWPerformPrincipalComponentAnalysis.ipynb)
+
+
+Perform Data Normalization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWPerformDataNormalization.ipynb)
   
-MWPerformVolcanoPlotAnalysis.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWPerformVolcanoPlotAnalysis.ipynb)
+Perform Principal Component Analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWPerformPrincipalComponentAnalysis.ipynb)
+  
+Perform Volcano Plot Analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWPerformVolcanoPlotAnalysis.ipynb)
 
-MWPlotNamedMetabolitesResultsExample.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWPlotNamedMetabolitesResultsExample.ipynb)
+Plot Named Metabolites Results Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWPlotNamedMetabolitesResultsExample.ipynb)
 
-MWRestAPIExactMassDataExample.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIExactMassDataExample.ipynb)
+Rest API Exact Mass Data Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIExactMassDataExample.ipynb)
 
-MWRestAPIGenetDataExample.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIGenetDataExample.ipynb)
+Rest API Genet Data Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIGenetDataExample.ipynb)
 
-MWRestAPIMOverZDataExample.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIMOverZDataExample.ipynb)
+Rest API M Over Z Data Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIMOverZDataExample.ipynb)
 
-MWRestAPINamedMetabolitesResultsExample.ipynb	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPINamedMetabolitesResultsExample.ipynb)
+Rest API Named Metabolites Results Example	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPINamedMetabolitesResultsExample.ipynb)
 
-MWRestAPIProteinDataExample.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIProteinDataExample.ipyn)
+Rest API Protein Data Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIProteinDataExample.ipyn)
 
-MWRestAPIRefMetDataExample.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIRefMetDataExample.ipynb)
+Rest API RefMet Data Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIRefMetDataExample.ipynb)
 
-MWRestAPIStudyDataExample.ipynb	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIStudyDataExample.ipynb)
+Rest API Study Data Example	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevincoakley/binder-MW/master?filepath=MWRestAPIStudyDataExample.ipynb)
